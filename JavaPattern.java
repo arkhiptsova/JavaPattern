@@ -1,8 +1,7 @@
 package assignment;
 
 /*
- Mila Arkhiptcova
- 08/27/2019
+ Mila 
  Assignment 2.2
  
  This program displays word Java in a specific pattern
